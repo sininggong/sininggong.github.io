@@ -13,7 +13,7 @@ site_theme               : "default" # The available themes options are "default
 # title_separator          : "-"
 # name                     : "Sining Gong"
 # description              : "Personal website of Sining Gong."   # Update this with a general description of your site, this is the default if not overridden by a page
-# url                      : https://sgong11.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+# url                      : https://sininggong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 #                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 # # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # # repository               : "academicpages/academicpages.github.io"
@@ -46,9 +46,9 @@ site_theme               : "default" # The available themes options are "default
 title: "Sining Gong"
 name: &name "Sining Gong"
 description: &description "Postdoctoral Associate in Computational Mathematics, Science and Engineering at Michigan State University"
-url: "https://sgong11.github.io"
+url: "https://sininggong.github.io"
 baseurl: ""
-repository: "sgong11/sgong11.github.io"
+repository: "sininggong/sininggong.github.io"
 
 author:
   avatar: "profile.png"
@@ -58,7 +58,7 @@ author:
   avatar: "atBrown.JPG" # You will need to upload a photo of yourself to the /images/ folder
   location: "East Lansing, MI"
   employer: "Michigan State University"
-  # uri: "https://sgong11.github.io"
+  # uri: "https://sininggong.github.io"
   email: "gongsini@msu.edu"
   googlescholar: "https://scholar.google.com/citations?user=Nc6ouw4AAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0002-8049-2302"
