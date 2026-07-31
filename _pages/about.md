@@ -11,7 +11,7 @@ Welcome to my academic website. I am a Postdoctoral Associate at the Center of H
 
 ### Academic Experience
 
-* **2024–Present** — Postdoctoral Associate, Michigan State University
+* **2024–Present** — Postdoctoral Associate, Michigan State University, work with Professor Andrew J. Christlieb
 * **2018–2023** — Ph.D. in Applied Mathematics, Brown University
 
   Advisor: Professor Johnny Guzmán
