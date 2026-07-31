@@ -13,10 +13,14 @@ Welcome to my academic website. I am a Postdoctoral Associate at the Center of H
 
 * **2024–Present** — Postdoctoral Associate, Michigan State University
 * **2018–2023** — Ph.D. in Applied Mathematics, Brown University
+
   Advisor: Professor Johnny Guzmán
+
   Recipient of the Dafermos Award
+
   Dissertation: *Applications of FEM with Macro-Elements: Discrete Elasticity Sequences and Convergence of Lagrange Elements for a Maxwell Eigenvalue Problem*
 * **2014–2018** — B.S. in Mathematical Sciences and Applied Mathematics, Beijing Normal University
+
   Graduated with honors
 
 ### Research
