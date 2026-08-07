@@ -24,8 +24,8 @@ For the most up-to-date list, see my [Google Scholar profile](https://scholar.go
 5. F. A. Padilla-Gomez, S. Gong, M. S. Murillo, F. R. Graziani, and A. J. Christlieb. *[Quantum Kinetic Modeling of KEEN Waves in a Warm-Dense Regime](https://pubs.aip.org/aip/pop/article/33/4/043902/3386262/Quantum-kinetic-modeling-of-KEEN-waves-in-a-warm)*. Physics of Plasmas, 33(4), 043902, 2026.  
    [[arXiv]](https://arxiv.org/abs/2510.23690)
 
-6. A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng. *[A Sampling-Based Adaptive Rank Approach to the Wigner--Poisson System](https://arxiv.org/abs/2506.21314)*. Accepted by SIAM Journal on Scientific Computing, 2026.  
-   [[arXiv]](https://arxiv.org/abs/2506.21314)
+6. A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng. *[A Sampling-Based Adaptive Rank Approach to the Wigner--Poisson System](https://epubs.siam.org/doi/10.1137/25M1776019)*. SIAM Journal on Scientific Computing, 48(4), B698-B723, 2026.  
+ [[DOI]]( https://doi.org/10.1137/25M1776019) [[arXiv]](https://arxiv.org/abs/2506.21314)
 
 ## Preprints and Submitted Manuscripts
 
