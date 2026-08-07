@@ -13,7 +13,7 @@ For the most up-to-date list, see my [Google Scholar profile](https://scholar.go
 2. F. A. Padilla-Gomez, S. Gong, M. S. Murillo, F. R. Graziani, and A. J. Christlieb. *[Quantum Kinetic Modeling of KEEN Waves in a Warm-Dense Regime](https://pubs.aip.org/aip/pop/article/33/4/043902/3386262/Quantum-kinetic-modeling-of-KEEN-waves-in-a-warm)*. Physics of Plasmas, 33(4), 043902, 2026.  
    [[arXiv]](https://arxiv.org/abs/2510.23690)
 
-3. A. Christlieb, S. Gong, and H. Yang. *[Boundary Corrections for Kernel Approximation to Differential Operators](https://link.springer.com/article/10.1007/s10915-025-03083-w)*. Journal of Scientific Computing, 105, Article 88, 2025.  
+3. A. Christlieb, S. Gong*, and H. Yang. *[Boundary Corrections for Kernel Approximation to Differential Operators](https://link.springer.com/article/10.1007/s10915-025-03083-w)*. Journal of Scientific Computing, 105, Article 88, 2025.  
    [[DOI]](https://doi.org/10.1007/s10915-025-03083-w) [[arXiv]](https://arxiv.org/abs/2410.09332)
 
 4. S. Gong, J. Gopalakrishnan, J. Guzmán, and M. Neilan. *[Discrete elasticity exact sequences on Worsey--Farin splits](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230046/m2an230046.html)*. ESAIM: Mathematical Modelling and Numerical Analysis, 57(6), 3373--3402, 2023.  
