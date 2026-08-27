@@ -29,13 +29,11 @@ My research focuses on the development, analysis, and implementation of structur
 
 My current research interests include:
 
-* **Adaptive low-rank and tensor methods for high-dimensional kinetic equations**, including sampling-based algorithms that reduce the computational and storage costs of phase-space simulations.
-
-* **Structure-preserving and conservative methods for quantum kinetic equations**, particularly the Wigner–Poisson system and its extensions to collisional and quantum-statistical regimes, with an emphasis on preserving mass, momentum, total energy, Fourier–Hermitian symmetry, and other physically meaningful structures.
+* **Adaptive low-rank tensor and structure-preserving methods for high-dimensional kinetic equations**, including sampling-based algorithms that reduce the computational and storage costs of phase-space simulations, particularly the Wigner–Poisson system and its extensions to collisional regimes, with an emphasis on preserving mass, momentum, total energy, Fourier–Hermitian symmetry, and other physically meaningful structures.
 
 * **Energy-conserving particle-in-cell methods for classical and relativistic plasma models**, including robust nonlinear solvers for implicit particle–field coupling.
 
-* **Kernel-based methods and the method of lines transpose** for differential operators and time-dependent partial differential equations.
+* **Kernel-based methods and the method of lines transpose** for differential operators and time-dependent partial differential equations, especially for the general boundary extensions. 
 
 * **Finite element exterior calculus and spline-based discretizations** for electromagnetism, elasticity, and related systems with geometric structure.
 
