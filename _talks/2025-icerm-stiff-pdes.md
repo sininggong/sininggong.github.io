@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop talk"
 permalink: /talks/2025-icerm-stiff-pdes
 venue: "Innovative and Efficient Strategies for Stiff Differential Equations Workshop, ICERM"
-date: 2025-08-01
+date: 2025-07-24
 location: "Providence, RI"
 ---
 

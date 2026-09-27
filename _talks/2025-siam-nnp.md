@@ -3,8 +3,8 @@ title: "A Sampling-Based Adaptive Rank Approach to the Wigner--Poisson System"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2025-siam-nnp
-venue: "2025 SIAM Conference on Numerical Methods for Scientific Computing and Nonlinear Problems"
-date: 2025-11-01
+venue: "2025 SIAM New York–New Jersey–Pennsylvania Section Annual Conference"
+date: 2025-11-02
 location: ""
 ---
 
