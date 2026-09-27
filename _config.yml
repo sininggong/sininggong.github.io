@@ -52,8 +52,8 @@ repository: "sininggong/sininggong.github.io"
 
 author:
   avatar: "profile.png"
-  name: "Sining Gong"
-  pronouns:
+  name: "Sining Gong (龚思宁)"
+  pronouns: "she/her"
   bio: "Postdoctoral Associate, Department of Computational Mathematics, Science and Engineering, Michigan State University"
   avatar: "atBrown.JPG" # You will need to upload a photo of yourself to the /images/ folder
   location: "East Lansing, MI"
