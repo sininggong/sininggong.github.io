@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Convergence of Lagrange FEM for Maxwell Eigenvalue Problem in 3D<br />Pitt AWM Student Seminar, University of Pittsburgh; Pittsburgh, PA",
+    40.4406968,
+    -80.0025666
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Convergence of Lagrange FEM for Maxwell Eigenvalue Problem in 3D<br />Math Colloquium, Michigan Technological University; Houghton, MI",
+    46.8591287,
+    -88.7774734
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Convergence of Lagrange FEM for Maxwell Eigenvalue Problem in 3D<br />Finite Element Circus, University of Florida; Gainesville, FL",
+    29.6519684,
+    -82.3249846
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A Kernel-Based Time-Stepping Framework for Stiff PDEs: Revisiting MOLT with SSP-RK<br />Innovative and Efficient Strategies for Stiff Differential Equations Workshop, ICERM; Providence, RI",
+    41.8239891,
+    -71.4128343
+  ],
+  [
+    "A Discrete Elasticity Exact Sequence on Worsey--Farin Splits<br />Finite Element Circus, Carnegie Mellon University; Pittsburgh, PA",
+    40.4406968,
+    -80.0025666
   ]
 ];
