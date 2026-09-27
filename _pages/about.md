@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am a Postdoctoral Associate at the Center of Hierarchical and Robust Modeling for Non-Equilibrium Transport (CHaRMNET) at Michigan State University.
+Welcome to my academic website. I am a Postdoctoral Associate at the [Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET)](https://charmnet-mmicc.github.io/) at Michigan State University.
 
 ### Academic Experience
 
-* **2023–Present** — Postdoctoral Associate, Michigan State University, work with Professor Andrew J. Christlieb
+* **2023–Present** — Postdoctoral Associate, Michigan State University, working with Professor Andrew J. Christlieb
 * **2018–2023** — Ph.D. in Applied Mathematics, Brown University
 
   Advisor: Professor Johnny Guzmán
@@ -33,7 +33,7 @@ My current research interests include:
 
 * **Energy-conserving particle-in-cell methods for classical and relativistic plasma models**, including robust nonlinear solvers for implicit particle–field coupling.
 
-* **Kernel-based methods and the method of lines transpose** for differential operators and time-dependent partial differential equations, especially for the general boundary extensions. 
+* **Kernel-based methods and the method of lines transpose** for differential operators and time-dependent partial differential equations, with particular emphasis on general boundary conditions. 
 
 * **Finite element exterior calculus and spline-based discretizations** for electromagnetism, elasticity, and related systems with geometric structure.
 

@@ -13,14 +13,14 @@ For the most up-to-date list, see my [Google Scholar profile](https://scholar.go
 2. F. A. Padilla-Gomez, S. Gong, M. S. Murillo, F. R. Graziani, and A. J. Christlieb. *[Quantum Kinetic Modeling of KEEN Waves in a Warm-Dense Regime](https://pubs.aip.org/aip/pop/article/33/4/043902/3386262/Quantum-kinetic-modeling-of-KEEN-waves-in-a-warm)*. Physics of Plasmas, 33(4), 043902, 2026.  
    [[arXiv]](https://arxiv.org/abs/2510.23690)
 
-3. A. Christlieb, S. Gong*, and H. Yang. *[Boundary Corrections for Kernel Approximation to Differential Operators](https://link.springer.com/article/10.1007/s10915-025-03083-w)*. Journal of Scientific Computing, 105, Article 88, 2025.  
+3. A. Christlieb, S. Gong\*, and H. Yang. *[Boundary Corrections for Kernel Approximation to Differential Operators](https://link.springer.com/article/10.1007/s10915-025-03083-w)*. Journal of Scientific Computing, 105, Article 88, 2025.  
    [[DOI]](https://doi.org/10.1007/s10915-025-03083-w) [[arXiv]](https://arxiv.org/abs/2410.09332)
 
-4. S. Gong, J. Gopalakrishnan, J. Guzmán, and M. Neilan. *[Discrete elasticity exact sequences on Worsey--Farin splits](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230046/m2an230046.html)*. ESAIM: Mathematical Modelling and Numerical Analysis, 57(6), 3373--3402, 2023.  
-   [[DOI]](https://doi.org/10.1051/m2an/2023084) [[arXiv]](https://arxiv.org/abs/2302.08598)
-
-5. D. Boffi, S. Gong, J. Guzmán, and M. Neilan. *[Convergence of Lagrange finite element methods for Maxwell eigenvalue problem in 3D](https://academic.oup.com/imajna/article-abstract/44/4/1911/7308484)*. IMA Journal of Numerical Analysis, 44(4), 1911--1945, 2024.  
+4. D. Boffi, S. Gong, J. Guzmán, and M. Neilan. *[Convergence of Lagrange finite element methods for Maxwell eigenvalue problem in 3D](https://academic.oup.com/imajna/article-abstract/44/4/1911/7308484)*. IMA Journal of Numerical Analysis, 44(4), 1911--1945, 2024.  
    [[DOI]](https://doi.org/10.1093/imanum/drad053) [[arXiv]](https://arxiv.org/abs/2204.10876)
+
+5. S. Gong, J. Gopalakrishnan, J. Guzmán, and M. Neilan. *[Discrete elasticity exact sequences on Worsey--Farin splits](https://www.esaim-m2an.org/articles/m2an/abs/2023/06/m2an230046/m2an230046.html)*. ESAIM: Mathematical Modelling and Numerical Analysis, 57(6), 3373--3402, 2023.  
+   [[DOI]](https://doi.org/10.1051/m2an/2023084) [[arXiv]](https://arxiv.org/abs/2302.08598)
 
 6. S. Gong, J. Guzmán, and M. Neilan. *[A Note on the Shape Regularity of Worsey--Farin Splits](https://link.springer.com/article/10.1007/s10915-023-02159-9)*. Journal of Scientific Computing, 95, Article 46, 2023.  
    [[DOI]](https://doi.org/10.1007/s10915-023-02159-9) [[arXiv]](https://arxiv.org/abs/2205.05059)

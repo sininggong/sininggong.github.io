@@ -18,4 +18,10 @@ I emphasize three core elements in my classroom:
 ## Teaching Experience
 * **Instructor, Michigan State University:** MTH 132 Calculus I (Lectures and Recitations)
 * **Teaching Assistant, Brown University:** Methods of Applied Mathematics I & II, Computational Probability and Statistics, and Early Arrival Preparation Course in Analysis.
-* **Mentoring:** Supervised undergraduate and graduate students on projects involving WENO methods, Schrödinger equations, and Wigner-Poisson solvers.
+
+## Mentoring
+
+I have mentored undergraduate and graduate students on projects involving WENO methods, Schrödinger equations, and Wigner–Poisson solvers. Students I have mentored at Michigan State University include:
+
+* F. Alejandro Padilla-Gomez
+* Doyoung Wang
