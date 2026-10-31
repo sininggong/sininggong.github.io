@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 # title                    : "Sining Gong"
-# title_separator          : "-"
+title_separator          : "|"
 # name                     : "Sining Gong"
 # description              : "Personal website of Sining Gong."   # Update this with a general description of your site, this is the default if not overridden by a page
 # url                      : https://sininggong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -26,7 +26,7 @@ site_theme               : "default" # The available themes options are "default
 #   name: "Sining Gong"
 #   pronouns         : "she/her"
 #   bio: "Postdoctoral Associate at Michigan State University"
-#   avatar: "atBrown.JPG" # You will need to upload a photo of yourself to the /images/ folder
+#   avatar: "sining-gong.jpg"
 #   employer: "Michigan State University"
 #   email: "gongsini@msu.edu"
 
@@ -51,18 +51,16 @@ baseurl: ""
 repository: "sininggong/sininggong.github.io"
 
 author:
-  avatar: "profile.png"
   name: "Sining Gong (龚思宁)"
   pronouns: "she/her"
   bio: "Postdoctoral Associate, Department of Computational Mathematics, Science and Engineering, Michigan State University"
-  avatar: "atBrown.JPG" # You will need to upload a photo of yourself to the /images/ folder
+  avatar: "sining-gong.jpg"
   location: "East Lansing, MI"
   employer: "Michigan State University"
   # uri: "https://sininggong.github.io"
   email: "gongsini@msu.edu"
   googlescholar: "https://scholar.google.com/citations?user=Nc6ouw4AAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0002-8049-2302"
-  github: "sgong11"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -142,7 +140,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -207,6 +205,21 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - WEBSITE_NOTES.md
+  - _posts
+  - _portfolio
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/year-archive.html
   - tmp
   - vendor
 keep_files:
@@ -319,7 +332,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

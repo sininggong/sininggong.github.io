@@ -20,7 +20,7 @@ layout: default
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{% if page.date_precision == 'month' %}{{ page.date | date: '%B %Y' }}{% else %}{{ page.date | date: '%B %-d, %Y' }}{% endif %}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
@@ -33,15 +33,17 @@ layout: default
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{% if page.date_precision == 'month' %}{{ page.date | date: '%B %Y' }}{% else %}{{ page.date | date: '%B %-d, %Y' }}{% endif %}</time></p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
+        {% if page.venue %}<p>{{ page.type }} · {{ page.venue }}{% if page.location != '' and page.location %} · {{ page.location }}{% endif %}</p>{% endif %}
 
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        <p class="resource-links">{% if page.eventurl %}<a class="resource-link" href="{{ page.eventurl }}">Event / program</a>{% endif %}{% if page.programurl %}<a class="resource-link" href="{{ page.programurl }}">Program</a>{% endif %}{% if page.slidesurl %}<a class="resource-link" href="{{ page.slidesurl }}">Slides (PDF)</a>{% endif %}{% if page.videourl %}<a class="resource-link" href="{{ page.videourl }}">Watch recording</a>{% endif %}</p>
+        <p><a href="{{ '/talks/' | relative_url }}">All talks and presentations</a></p>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

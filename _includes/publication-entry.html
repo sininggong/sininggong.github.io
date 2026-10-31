@@ -1,0 +1,6 @@
+<li class="publication-entry">
+  <p class="publication-title"><strong>{{ paper.title | escape }}.</strong></p>
+  <p>{{ paper.authors | escape | replace: 'S. Gong', '<strong>S. Gong</strong>' }}. <em>{{ paper.venue | escape }}</em>{% if paper.status == 'Published' %}, {{ paper.year }}{% endif %}.</p>
+  <p class="resource-links">{% if paper.doi %}<a class="resource-link" href="https://doi.org/{{ paper.doi }}">Journal</a>{% endif %}{% if paper.arxiv %}<a class="resource-link" href="https://arxiv.org/abs/{{ paper.arxiv }}">arXiv</a>{% endif %}{% if paper.code %}<a class="resource-link" href="{{ paper.code }}">Code</a>{% endif %}{% if paper.correction %}<a class="resource-link" href="https://doi.org/{{ paper.correction }}">Author-information correction</a>{% endif %}</p>
+  {% if paper.note %}<p class="publication-note">{{ paper.note }}</p>{% endif %}
+</li>

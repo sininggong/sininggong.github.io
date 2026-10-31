@@ -2,42 +2,41 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+description: "Sining Gong, Postdoctoral Associate at Michigan State University. Structure-preserving numerical methods, kinetic equations, finite elements, and scientific computing."
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to my academic website. I am a Postdoctoral Associate at the [Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (CHaRMNET)](https://charmnet-mmicc.github.io/) at Michigan State University.
+I am a Postdoctoral Associate in the Department of Computational Mathematics, Science and Engineering at Michigan State University, working with Professor Andrew J. Christlieb through [CHaRMNET](https://charmnet-mmicc.github.io/).
+
+My research focuses on the development, analysis, and implementation of efficient, structure-preserving numerical methods for partial differential equations. I study low-rank methods for high-dimensional partial differential equations, energy-conserving particle-in-cell methods, kernel-based differential operators, and compatible finite element methods. I am also working on mathematically constrained machine learning for kinetic moment closures.
+
+Previously, I earned my Ph.D. in Applied Mathematics at Brown University, advised by Professor Johnny Guzmán, and my B.S. in Mathematics and Applied Mathematics at Beijing Normal University, with a minor in psychology.
+
+<p class="resource-links"><a class="resource-link" href="{{ '/files/Sining_Gong_CV.pdf' | relative_url }}">Download CV (PDF)</a><a class="resource-link" href="{{ '/publications/' | relative_url }}">Publications</a><a class="resource-link" href="https://github.com/sgong11">Research code</a></p>
 
 ### Academic Experience
 
-* **2023–Present** — Postdoctoral Associate, Michigan State University, working with Professor Andrew J. Christlieb
-* **2018–2023** — Ph.D. in Applied Mathematics, Brown University
-
-  Advisor: Professor Johnny Guzmán
-
-  Recipient of the Dafermos Award
-
-  Dissertation: *Applications of FEM with Macro-Elements: Discrete Elasticity Sequences and Convergence of Lagrange Elements for a Maxwell Eigenvalue Problem*
-* **2014–2018** — B.S. in Mathematical Sciences and Applied Mathematics, Beijing Normal University
-
-  Graduated with honors
+- **2023–present** — Postdoctoral Associate, Michigan State University, CHaRMNET
+- **2018–2023** — Ph.D. in Applied Mathematics, Brown University. Advisor: Johnny Guzmán. Recipient of the 2023 Stella Dafermos Award.
+- **2014–2018** — B.S. in Mathematics and Applied Mathematics, Beijing Normal University. Minor in Psychology.
 
 ### Research
 
-My research focuses on the development, analysis, and implementation of structure-preserving and computationally efficient numerical methods for fluid, kinetic, and other physics-based partial differential equations. A central goal of my work is to make high-dimensional simulations computationally tractable while preserving the conservation laws, symmetries, and geometric structures of the governing equations.
+- **Low-rank methods and the curse of dimensionality:** sampling-based adaptive-rank representations that reduce the storage and computational costs of high-dimensional equations, with applications to the Wigner–Poisson system, including long-time 3D3V simulations in tested regimes, with preservation of mass, momentum, energy, and Fourier–Hermitian symmetry.
+- **Conservative particle and field methods:** nonrelativistic and relativistic particle-in-cell formulations, high-order kernel operators, and time integration for stiff equations.
+- **Compatible finite elements:** finite element exterior calculus, smooth splines, and Worsey–Farin refinements for Maxwell eigenvalue problems and elasticity.
+- **Mathematically constrained learning:** hyperbolic moment closures for the Vlasov–Poisson–BGK equations.
 
-My current research interests include:
+See the [research page]({{ '/research/' | relative_url }}) for figures, descriptions, papers, and software.
 
-* **Adaptive low-rank tensor and structure-preserving methods for high-dimensional kinetic equations**, including sampling-based algorithms that reduce the computational and storage costs of phase-space simulations, particularly the Wigner–Poisson system and its extensions to collisional regimes, with an emphasis on preserving mass, momentum, total energy, Fourier–Hermitian symmetry, and other physically meaningful structures.
+### Teaching and Mentoring
 
-* **Energy-conserving particle-in-cell methods for classical and relativistic plasma models**, including robust nonlinear solvers for implicit particle–field coupling.
+I want students to connect mathematical ideas, explain why an argument works, and judge its correctness independently. At Michigan State University and Brown University, I have taught or supported courses from Calculus I to graduate numerical analysis, and mentored undergraduate and graduate researchers in computational mathematics. [Teaching and mentoring]({{ '/teaching/' | relative_url }}).
 
-* **Kernel-based methods and the method of lines transpose** for differential operators and time-dependent partial differential equations, with particular emphasis on general boundary conditions. 
+### Recent Activities
 
-* **Finite element exterior calculus and spline-based discretizations** for electromagnetism, elasticity, and related systems with geometric structure.
-
-### Teaching
-
-Teaching is also an essential part of my academic career. I am passionate about cultivating curiosity, critical thinking, and problem-solving skills by connecting abstract mathematical concepts with applications in science and engineering.
-
+- **October 14, 2026:** Invited seminar, [Numerical Analysis & PDE Seminar, University of Delaware](https://events.udel.edu/event/dr-sining-gong-michigan-state-university).
+- **Fall 2026:** Graduate recitations for MTH 850, Numerical Analysis I, Michigan State University.
+- **Forthcoming in 2027:** Co-organizer of the approved SIAM CSE27 minisymposium, “Advances in Particle Methods for High-Dimensional Kinetic Equations.”

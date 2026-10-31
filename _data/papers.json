@@ -1,0 +1,126 @@
+[
+  {
+    "title": "A Sampling-Based Adaptive-Rank Approach to the Wigner–Poisson System",
+    "authors": "A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng",
+    "year": 2026,
+    "status": "Published",
+    "topic": "Low-rank methods",
+    "venue": "SIAM Journal on Scientific Computing, 48(4), B698–B723",
+    "doi": "10.1137/25M1776019",
+    "arxiv": "2506.21314",
+    "code": "https://github.com/sgong11/WignerPoissonAdaptiveRank",
+    "note": "Corresponding author. SIAM Reproducibility Badge: Code and data available."
+  },
+  {
+    "title": "Quantum Kinetic Modeling of KEEN Waves in a Warm-Dense Regime",
+    "authors": "F. A. Padilla-Gomez, S. Gong, M. S. Murillo, F. R. Graziani, and A. J. Christlieb",
+    "year": 2026,
+    "status": "Published",
+    "topic": "Low-rank methods",
+    "venue": "Physics of Plasmas, 33(4), 043902",
+    "doi": "10.1063/5.0308425",
+    "arxiv": "2510.23690",
+    "code": null
+  },
+  {
+    "title": "Boundary Corrections for Kernel Approximation to Differential Operators",
+    "authors": "A. Christlieb, S. Gong, and H. Yang",
+    "year": 2025,
+    "status": "Published",
+    "topic": "Kernel methods",
+    "venue": "Journal of Scientific Computing, 105, Article 88",
+    "doi": "10.1007/s10915-025-03083-w",
+    "arxiv": "2410.09332",
+    "code": "https://github.com/sgong11/MOLt_boundary",
+    "note": "Co-corresponding author.",
+    "correction": "10.1007/s10915-026-03288-7"
+  },
+  {
+    "title": "A Note on the Shape Regularity of Worsey–Farin Splits",
+    "authors": "S. Gong, J. Guzmán, and M. Neilan",
+    "year": 2023,
+    "status": "Published",
+    "topic": "Finite elements",
+    "venue": "Journal of Scientific Computing, 95, Article 46",
+    "doi": "10.1007/s10915-023-02159-9",
+    "arxiv": "2205.05059",
+    "code": null
+  },
+  {
+    "title": "Convergence of Lagrange Finite Element Methods for Maxwell Eigenvalue Problem in 3D",
+    "authors": "D. Boffi, S. Gong, J. Guzmán, and M. Neilan",
+    "year": 2024,
+    "status": "Published",
+    "topic": "Finite elements",
+    "venue": "IMA Journal of Numerical Analysis, 44(4), 1911–1945",
+    "doi": "10.1093/imanum/drad053",
+    "arxiv": "2204.10876",
+    "code": null
+  },
+  {
+    "title": "Discrete Elasticity Exact Sequences on Worsey–Farin Splits",
+    "authors": "S. Gong, J. Gopalakrishnan, J. Guzmán, and M. Neilan",
+    "year": 2023,
+    "status": "Published",
+    "topic": "Finite elements",
+    "venue": "ESAIM: Mathematical Modelling and Numerical Analysis, 57(6), 3373–3402",
+    "doi": "10.1051/m2an/2023084",
+    "arxiv": "2302.08598",
+    "code": null
+  },
+  {
+    "title": "An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation",
+    "authors": "A. Christlieb, L. Chacón, and S. Gong",
+    "year": 2026,
+    "status": "Submitted",
+    "topic": "Particle-in-cell",
+    "venue": "SIAM Journal on Scientific Computing · submitted",
+    "doi": null,
+    "arxiv": "2606.15035",
+    "code": "https://github.com/sgong11/Unstaggered_PIC"
+  },
+  {
+    "title": "A Structure-preserving Adaptive-Rank Approach to the High-Dimensional Wigner–Poisson System",
+    "authors": "A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng",
+    "year": 2026,
+    "status": "Submitted",
+    "topic": "Low-rank methods",
+    "venue": "SIAM Journal on Scientific Computing · submitted",
+    "doi": null,
+    "arxiv": "2606.15067",
+    "code": null
+  },
+  {
+    "title": "A Conservative Adaptive Rank Method for the Wigner–Poisson System",
+    "authors": "A. Christlieb, S. Gong, F. A. Padilla-Gomez, and J.-M. Qiu",
+    "year": 2026,
+    "status": "Submitted",
+    "topic": "Low-rank methods",
+    "venue": "Journal of Scientific Computing · submitted",
+    "doi": null,
+    "arxiv": "2606.20234",
+    "code": null
+  },
+  {
+    "title": "An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part II: Fully Relativistic Formulation with an Adapted Higuera–Cary Pusher",
+    "authors": "A. Christlieb, L. Chacón, and S. Gong",
+    "year": 2026,
+    "status": "Submitted",
+    "topic": "Particle-in-cell",
+    "venue": "SIAM Journal on Scientific Computing · submitted",
+    "doi": null,
+    "arxiv": "2609.36383",
+    "code": "https://github.com/sgong11/Unstaggered_PIC"
+  },
+  {
+    "title": "Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations",
+    "authors": "A. Christlieb, S. Gong, J. Huang, N. A. Krupansky, and S. Zhou",
+    "year": 2026,
+    "status": "Submitted",
+    "topic": "Scientific machine learning",
+    "venue": "Journal of Scientific Computing · submitted",
+    "doi": null,
+    "arxiv": null,
+    "code": null
+  }
+]
