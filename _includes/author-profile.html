@@ -42,6 +42,15 @@
         </li>
       {% endif %}
 
+      {% if author.backup_email %}
+        <li class="email-contact">
+          <button class="copy-email" type="button" data-email="{{ author.backup_email | escape }}" aria-label="Copy backup email address" title="Copy {{ author.backup_email | escape }}" hidden><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><span class="copy-email-label">Email (backup)</span></button>
+          <span class="copy-email-status" role="status" aria-live="polite"></span>
+          <input class="copy-email-fallback" type="text" value="{{ author.backup_email | escape }}" aria-label="Backup email address to copy" readonly hidden>
+          <noscript>{{ author.backup_email | escape }} (backup)</noscript>
+        </li>
+      {% endif %}
+
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
