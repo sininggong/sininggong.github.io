@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Email notice (updated November 13, 2026):** Due to an Outlook issue, I may not have received some messages sent to gongsini@msu.edu. If you emailed me in the past 10 days and have not received a reply, please resend your message to **sininggong125@gmail.com**. For new inquiries, please also use this address. I apologize for any inconvenience.
+**Email notice (updated November 13, 2026):** My MSU email is working again. Due to an Outlook issue, I may not have received some messages sent to gongsini@msu.edu. If you emailed me in the past 10 days and have not received a reply, please resend your message. I apologize for any inconvenience.
 {: .notice--info}
 
 I am a Postdoctoral Associate in the Department of Computational Mathematics, Science and Engineering at Michigan State University, working with Professor Andrew J. Christlieb through [CHaRMNET](https://charmnet-mmicc.github.io/).
