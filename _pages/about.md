@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+**Email notice (November 12–13, 2026):** Due to an Outlook issue, I may not have received messages sent to gongsini@msu.edu during this period. If you emailed me then, please resend your message to **sininggong125@gmail.com**.
+{: .notice--info}
+
 I am a Postdoctoral Associate in the Department of Computational Mathematics, Science and Engineering at Michigan State University, working with Professor Andrew J. Christlieb through [CHaRMNET](https://charmnet-mmicc.github.io/).
 
 My research focuses on the development, analysis, and implementation of efficient, structure-preserving numerical methods for partial differential equations. I study low-rank methods for high-dimensional partial differential equations, energy-conserving particle-in-cell methods, kernel-based differential operators, and compatible finite element methods. I am also working on mathematically constrained machine learning for kinetic moment closures.
